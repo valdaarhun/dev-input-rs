@@ -1,3 +1,5 @@
+# dev-input-rs
+
 ## About
 
 Reads and decodes raw input events from devices at `/dev/input/event<n>`.
